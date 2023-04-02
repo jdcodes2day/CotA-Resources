@@ -312,5 +312,6 @@
 <Contents><Key>newsound/mob/cat/purr3.ogg</Key><LastModified>1637612135</LastModified><Size>34965</Size><Signature>eed7a9305f5879448bb94355f25279b4aac403b6</Signature></Contents>
 <Contents><Key>newsound/mob/cat/purreow01.ogg</Key><LastModified>1637612135</LastModified><Size>11787</Size><Signature>d00791807e913e57d58fd891cb4dd10186cfdf38</Signature></Contents>
 <Contents><Key>newsound/mob/cat/purreow02.ogg</Key><LastModified>1637612135</LastModified><Size>12237</Size><Signature>08573a1f11058b09c5855122dff47ceb209f771e</Signature></Contents>
-
+<Contents><Key>newsound/mob/ancient/ancient1.ogg</Key><LastModified>1637612135</LastModified><Size>4609</Size><Signature>692202fce7908dcc5b5c8758c5cd517d863d4dd3</Signature></Contents>
+  
 </AlphaResList>
