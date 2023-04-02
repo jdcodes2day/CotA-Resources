@@ -297,29 +297,20 @@
 
 <Contents><Key>newsound/random/levelup.ogg</Key><LastModified>1637612137</LastModified><Size>32140</Size><Signature>b310a3c371441b77fe873133b2cb7b63e367c3f4</Signature></Contents>
 
-<Contents><Key>newsound/mob/wasp1.ogg</Key><LastModified>1637612134</LastModified><Size>22553</Size><Signature>65b49739d48ebc47879ca5528c8283329980b304</Signature></Contents>
-<Contents><Key>newsound/mob/wasp2.ogg</Key><LastModified>1637612134</LastModified><Size>27278</Size><Signature>501b40b97ee55cb7a97943ee620aa05131089fc2</Signature></Contents>
+<Contents><Key>newsound/mob/cat/hiss1.ogg</Key><LastModified>1637612135</LastModified><Size>14666</Size><Signature>9d2202fce7908dcc5b5c8758c5cd517d863d4dd3</Signature></Contents>
+<Contents><Key>newsound/mob/cat/hiss2.ogg</Key><LastModified>1637612135</LastModified><Size>13451</Size><Signature>063bf0fce35c547eb59f086dbb56c5fe329cbcf4</Signature></Contents>
+<Contents><Key>newsound/mob/cat/hiss3.ogg</Key><LastModified>1637612135</LastModified><Size>13708</Size><Signature>c7e424eb00712614a183adf5d17b949175ff00df</Signature></Contents>
+<Contents><Key>newsound/mob/cat/hitt1.ogg</Key><LastModified>1637612135</LastModified><Size>7595</Size><Signature>28409652d939d2489d8b5317d51abb873821f0f4</Signature></Contents>
+<Contents><Key>newsound/mob/cat/hitt2.ogg</Key><LastModified>1637612135</LastModified><Size>9180</Size><Signature>ce499da6ec5dd226d50843890ca09f16018aff9a</Signature></Contents>
+<Contents><Key>newsound/mob/cat/hitt3.ogg</Key><LastModified>1637612135</LastModified><Size>7321</Size><Signature>3d98b4b7c37a09101da00d8a3078e0acba6558f4</Signature></Contents>
+<Contents><Key>newsound/mob/cat/meow1.ogg</Key><LastModified>1637612135</LastModified><Size>9820</Size><Signature>5fdf1bd80b204245af760042d2e546d87666e288</Signature></Contents>
+<Contents><Key>newsound/mob/cat/meow2.ogg</Key><LastModified>1637612135</LastModified><Size>9349</Size><Signature>9853be18df1a5b2642e33ba05e71bfd5099f9f04</Signature></Contents>
+<Contents><Key>newsound/mob/cat/meow3.ogg</Key><LastModified>1637612135</LastModified><Size>9526</Size><Signature>381f9e97a8a986ecab3e86431d6be6df5ff79c31</Signature></Contents>
+<Contents><Key>newsound/mob/cat/meow4.ogg</Key><LastModified>1637612135</LastModified><Size>9560</Size><Signature>4bf7c7a08c1217de7b1f0faf82429665fbf18458</Signature></Contents>
+<Contents><Key>newsound/mob/cat/purr1.ogg</Key><LastModified>1637612135</LastModified><Size>27911</Size><Signature>315512d6027033c2a279841badb40a26d74efc81</Signature></Contents>
+<Contents><Key>newsound/mob/cat/purr2.ogg</Key><LastModified>1637612135</LastModified><Size>28974</Size><Signature>847ec719ee91e28d7bf58ab39a5d8d6bd5728314</Signature></Contents>
+<Contents><Key>newsound/mob/cat/purr3.ogg</Key><LastModified>1637612135</LastModified><Size>34965</Size><Signature>eed7a9305f5879448bb94355f25279b4aac403b6</Signature></Contents>
+<Contents><Key>newsound/mob/cat/purreow01.ogg</Key><LastModified>1637612135</LastModified><Size>11787</Size><Signature>d00791807e913e57d58fd891cb4dd10186cfdf38</Signature></Contents>
+<Contents><Key>newsound/mob/cat/purreow02.ogg</Key><LastModified>1637612135</LastModified><Size>12237</Size><Signature>08573a1f11058b09c5855122dff47ceb209f771e</Signature></Contents>
 
-<Contents><Key>newsound/mob/wyvern/growl1.ogg</Key><LastModified>1637612134</LastModified><Size>26384</Size><Signature>0000000000000000000000000000000000000001</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/growl2.ogg</Key><LastModified>1637612134</LastModified><Size>27101</Size><Signature>0000000000000000000000000000000000000002</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/growl3.ogg</Key><LastModified>1637612134</LastModified><Size>27102</Size><Signature>0000000000000000000000000000000000000003</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/growl4.ogg</Key><LastModified>1637612134</LastModified><Size>25574</Size><Signature>0000000000000000000000000000000000000004</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/wings1.ogg</Key><LastModified>1637612134</LastModified><Size>10617</Size><Signature>0000000000000000000000000000000000000005</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/wings2.ogg</Key><LastModified>1637612134</LastModified><Size>10481</Size><Signature>0000000000000000000000000000000000000006</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/wings3.ogg</Key><LastModified>1637612134</LastModified><Size>10373</Size><Signature>0000000000000000000000000000000000000007</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/wings4.ogg</Key><LastModified>1637612134</LastModified><Size>11702</Size><Signature>0000000000000000000000000000000000000008</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/wings5.ogg</Key><LastModified>1637612134</LastModified><Size>11659</Size><Signature>0000000000000000000000000000000000000009</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/wings6.ogg</Key><LastModified>1637612134</LastModified><Size>11150</Size><Signature>0000000000000000000000000000000000000010</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/fangsnew.ogg</Key><LastModified>1637612134</LastModified><Size>8664</Size><Signature>0000000000000000000000000000000000000011</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/fireball.ogg</Key><LastModified>1637612134</LastModified><Size>8535</Size><Signature>0000000000000000000000000000000000000012</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/purr.ogg</Key><LastModified>1637612134</LastModified><Size>34920</Size><Signature>0000000000000000000000000000000000000013</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/idle1.ogg</Key><LastModified>1637612134</LastModified><Size>17432</Size><Signature>0000000000000000000000000000000000000014</Signature></Contents>
-<Contents><Key>newsound/mob/wyvern/idle2.ogg</Key><LastModified>1637612134</LastModified><Size>16156</Size><Signature>0000000000000000000000000000000000000015</Signature></Contents>
-
-<Contents><Key>newsound/mob/wendigo/idle.ogg</Key><LastModified>1637612134</LastModified><Size>10772</Size><Signature>0000000000000000000000000000000000000016</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/hurt.ogg</Key><LastModified>1637612134</LastModified><Size>16727</Size><Signature>0000000000000000000000000000000000000017</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/alert.ogg</Key><LastModified>1637612134</LastModified><Size>15630</Size><Signature>0000000000000000000000000000000000000018</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/death.ogg</Key><LastModified>1637612134</LastModified><Size>16722</Size><Signature>0000000000000000000000000000000000000019</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/attack.ogg</Key><LastModified>1637612134</LastModified><Size>10359</Size><Signature>0000000000000000000000000000000000000020</Signature></Contents>
-<Contents><Key>newsound/mob/wendigo/reveal.ogg</Key><LastModified>1637612134</LastModified><Size>46068</Size><Signature>0000000000000000000000000000000000000021</Signature></Contents>
 </AlphaResList>
